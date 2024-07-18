@@ -20,7 +20,6 @@ public class App {
 
         output(tomcat.getStringAttributes("#name"));
         output(tomcat.getStringAttributes("#color"));
-
         output(tomcat.getAge()); 
 
     }
